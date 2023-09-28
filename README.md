@@ -1,8 +1,10 @@
 # Atividade Pilares POO
-## 1. Crie uma classe abstrata chamada Ingresso que possui um valor em reais e um método imprimeValor() 
-  - a. crie uma classe Normal, que herda Ingresso..
-  - b. crie uma classe VIP, que herda Ingresso e possui um valor adicional. Altere o método imprimeValor para mostrar o valor do ingresso somado com o adicional.
-  - c. crie uma classe Camarote, que herda ingresso e possui um valor adicional. Altere o método imprimeValor para mostrar o valor do ingresso somado com o adicional.
+## 1. Crie uma classe abstrata chamada Ingresso que possui um valor em reais e um método `imprimeValor( )` 
+  - a. crie uma classe Normal, que herda Ingresso.
+  - b. crie uma classe VIP, que herda Ingresso e possui um valor adicional.
+    - Altere o método imprimeValor para mostrar o valor do ingresso somado com o adicional.
+  - c. crie uma classe Camarote, que herda ingresso e possui um valor adicional.
+    - Altere o método imprimeValor para mostrar o valor do ingresso somado com o adicional.
 
 ## 2. Crie a classe Imovel, que possui um endereço e um preço.
 - a. crie uma classe Novo, que herda Imovel e possui um adicional no preço. Crie métodos de acesso e impressão deste valor adicional.
